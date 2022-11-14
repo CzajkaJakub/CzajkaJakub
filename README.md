@@ -18,4 +18,6 @@ I am constantly implementing my own projects to consolidate the acquired knowled
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/>
+  <img src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg" alt="angular" width="60" height="60"/>
+  <img src="  https://cdn-icons-png.flaticon.com/512/919/919832.png" alt="ts" width="60" height="60"/>
 </p>
